@@ -39,7 +39,8 @@ I'm always learning and staying on top of the latest advancements across the tec
 Explore my repositories, whether you're looking for innovative code, strategic insights, or advanced architecture patterns. Let’s collaborate and continue transforming ideas into reality!
 
 🔗 **[Connect with me on LinkedIn](https://www.linkedin.com/in/brucegruenbaum)** to discuss anything from technical challenges to leadership strategies.
-You can also follow me on YouTube [![YouTube Channel](https://img.shields.io/badge/YouTube-The%20Software%20Gorilla-red?style=flat-square&logo=youtube)](https://www.youtube.com/@TheSoftwareGorilla)
+
+I've also got a channel [![YouTube Channel](https://img.shields.io/badge/YouTube-The%20Software%20Gorilla-red?style=flat-square&logo=youtube)](https://www.youtube.com/@TheSoftwareGorilla) that provides informative videos on some of the work you'll find in these repositories.
 
 Cheers!  
 **Bruce Gruenbaum** 🥂  
