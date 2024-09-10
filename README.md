@@ -1,6 +1,6 @@
 # Welcome to My GitHub!
 
-## Hi there! I'm Bruce Gruenbaum – an Innovative Software Development Leader 🔧💡
+## Hi there! I'm Bruce Gruenbaum – an innovative software development leader 🔧💡
 
 Welcome to my corner of GitHub, where cutting-edge technology and creative problem-solving converge!
 
